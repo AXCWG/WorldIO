@@ -72,7 +72,7 @@ class Program
         });
         while (true)
         {
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
